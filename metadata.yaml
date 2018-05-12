@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '43543'
     url: http://www.gutenberg.org/2009/agents/43543
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45958#Indo-China-and-Its-Primitive-People
 gutenberg_issued: '2014-06-13'
 gutenberg_type: Text
 identifiers:
